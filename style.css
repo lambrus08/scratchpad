@@ -1,0 +1,62 @@
+html {
+    font-size: 90%;
+}
+
+body {
+    font-size: 16px;
+    max-width: 100%;
+    margin: auto;
+    background: lavender;
+}
+
+header {
+    background-color: #4c1569 ;
+    padding-left: 1em;
+    height: 20vh;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    color: white;
+    font-size: 6em;
+    display: inline-block;
+    bottom: 8%;
+    position: relative;
+    left: 15%;
+    margin: 0;
+    text-shadow: 2px 2px 4px black, 0 0 50px #f7d795, 0 0 20px #ecac40;
+
+}
+
+img[src="assets/images%20copy/lakers.logo.jpg"] {
+    width: 10%;
+    padding-left: 1.2em;
+    border: .1em #ecac40 solid;
+    padding-right: .9em;
+    height: 15vh;
+    outline: .6em double #ecac40;
+    position: relative;
+    top: .80em;
+}
+
+
+
+
+
+#left_nav {
+    width: 15%;
+    display: inline-block;
+    margin: 2em 0 2em 2em;
+    height: 70vh;
+    background-color: #ffffb0;
+    box-shadow: 10px 20px 65px #9473FE;
+    border: 1px solid #9473FE;
+    border-radius: .75em;
+    font-size:1.5em;
+    font-family: 'Brush Script MT', cursive;
+    color: #4417D4;
+    text-shadow: 6px 6px 8px white, 0 0 10px #9473FE, 0 0 10px #9473FE;
+
+
+}
+
