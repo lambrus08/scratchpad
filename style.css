@@ -23,5 +23,20 @@
     border: black 5px solid
 }
 .col-sm-12 {
-    border: black 4px solid;
+    border: black 4px solid
+}
+
+button {
+    padding: 0;
+    border: none;
+    background: none;
+    width: 100%;
+
+
+
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
 }
